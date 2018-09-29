@@ -21,15 +21,5 @@ public class TestaPessoa {
         pessoa.setAltura(1.75);
         System.out.println(pessoa);
         
-        //informarDados();
-        
     }
-    /*private static void informarDados() {
-        String nome = String.valueOf(JOptionPane.showInputDialog("Informe o nome:"));
-        LocalDate dataNascimento = LocalDate.now();
-        Double altura = Double.valueOf(JOptionPane.showInputDialog("Informe a sua altura:"));
-        pessoa.setNome(nome);
-        
-        pessoa.setAltura(altura);
-    }*/
 }
